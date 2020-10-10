@@ -1,0 +1,6 @@
+@charset "UTF-8";
+ @font-face{font-family: "仿宋";src:url("C:\\Windows\\Fonts\\msyhbd.ttf")}
+* {    
+    font-family: 仿宋 !important;
+    font-weight:normal !important;
+}
